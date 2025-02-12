@@ -44,8 +44,7 @@ streamlit run app.py
 หากต้องการพัฒนาเพิ่มเติม สามารถ **Fork** โปรเจค แล้ว Pull Request ได้เลย! 🚀  
 
 📌 **ติดต่อผู้พัฒนา:**  
-💌 Email: [anuchanamlee55@gmail.com](mailto:anuchanamlee55@gmail.com)  🐦 Twitter: [@your_twitter](https://twitter.com/your_twitter)  
-
+💌 Email: [anuchanamlee55@gmail.com](mailto:anuchanamlee55@gmail.com)  
 ---
 
 🔗 **ข้อมูลอ้างอิง**:  
